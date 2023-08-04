@@ -18,9 +18,10 @@ To run the code in this repository, you need the following prerequisites:
 
 You can install the required Python libraries using pip:
 
-```bash
+~~~
 pip install pandas numpy scikit-learn
-    
+~~~
+
 -Usage    
     
 Clone this repository to your local machine using the following command:
