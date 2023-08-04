@@ -43,7 +43,7 @@ python loan_status_prediction.py
 ~~~
     
 The script will load the dataset, preprocess the data, split it into training and testing sets, train the Logistic Regression model, and evaluate its performance using accuracy, precision, and recall metrics.
-
+<br>
 ### Results    
 Using the Logistic Regression model, here are the performance scores for both classes:
 
