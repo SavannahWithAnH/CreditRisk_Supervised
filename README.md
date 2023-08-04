@@ -62,3 +62,13 @@ The precision score for the 'low/no risk' class is 1.00, indicating that when th
 The recall score for the 'low/no risk' class is also 1.00, suggesting that the model can identify almost all of the actual low/no risk loans correctly. The recall for the 'high risk' class is 0.89, indicating that the model can capture a considerable portion of the high-risk loans but may miss some.
 
 Considering the high accuracy, precision, and recall scores, the Logistic Regression model appears to be well-suited for predicting loan status based on the available financial information.
+
+
+<br>
+<br>  
+<br>  
+
+### Questions?
+Please refer to the following:  
+[My LinkedIn Page](https://www.linkedin.com/in/savannah-porter-7a2627267/)  
+[My Email Contact](savannahnporter@gmail.com)  
