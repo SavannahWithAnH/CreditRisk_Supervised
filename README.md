@@ -22,7 +22,7 @@ You can install the required Python libraries using pip:
 pip install pandas numpy scikit-learn
 ~~~
 
--Usage    
+- Usage    
     
 Clone this repository to your local machine using the following command:
 
@@ -41,18 +41,19 @@ Run the loan_status_prediction.py script:
 ~~~
 python loan_status_prediction.py
 ~~~
-
+    
 The script will load the dataset, preprocess the data, split it into training and testing sets, train the Logistic Regression model, and evaluate its performance using accuracy, precision, and recall metrics.
--Results
+- Results    
 Using the Logistic Regression model, here are the performance scores for both classes:
 
-Machine Learning Model 1 (Logistic Regression):
-Balanced Accuracy: 0.94
-Precision (low/no risk): 1.00
-Precision (high risk): 0.87
-Recall (low/no risk): 1.00
-Recall (high risk): 0.89
--Summary
+Machine Learning Model 1 (Logistic Regression):    
+Balanced Accuracy: 0.94    
+Precision (low/no risk): 1.00   
+Precision (high risk): 0.87    
+Recall (low/no risk): 1.00    
+Recall (high risk): 0.89    
+<br>
+- Summary    
 Based on the evaluation of the machine learning model, the Logistic Regression model (Model 1) demonstrated strong performance in predicting loan status. The model achieved an impressive balanced accuracy of 0.94, indicating its ability to make accurate predictions for both low/no risk and high-risk loans.
 
 The precision score for the 'low/no risk' class is 1.00, indicating that when the model predicts a loan as low/no risk, it is almost always correct. However, the precision for the 'high risk' class is 0.87, implying that there is room for improvement in correctly identifying high-risk loans.
